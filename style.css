@@ -1,0 +1,141 @@
+
+.img_1{
+    width: 220px;
+    height: 115px;
+    margin:0px 20px;
+}
+h5{
+    color:rgb(240, 47, 13);
+    font-family: 'Varela Round', sans-serif;
+}
+nav {
+    font-family: 'Varela Round', sans-serif;
+    margin: 35px 340px 0px 0px;
+    font-size: small;
+}
+a{
+    text-decoration: none;
+    color: black;
+    margin: 25px;
+}
+.Sign_up{
+   border-style:solid;
+   padding: 10px;
+   border-width: 2px;
+   border-radius: 5px;
+}
+.container_1{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    
+}
+body{
+    background-image: url(./images/pic_2.jpeg);
+    background-size: cover;
+}
+h1{
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    font-family: 'Varela Round', sans-serif;
+}
+button{
+    background-color: orange;
+    color: whitesmoke;
+    border-radius:12px;
+    height: 45px;
+    border-color: whitesmoke;
+    padding: 7px;
+    width: 150px;
+}
+.logo{
+    height: 50px;
+    width: 100px;
+    margin: 0px 30px;
+}
+.container_2{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+.container_3{
+    display: flex;
+    flex-direction: row;
+    margin: 0px 50px;
+}
+img{
+    margin: 12px;
+    height: 25px;
+    width: 25px;
+    box-shadow: black;
+}
+.container_4{
+    margin: 90px 190px;
+    
+}
+.container_5{
+    background-image: url(./images/login.png);
+    background-size: 100vh;
+    background-position:cover;
+   background-repeat: no-repeat;
+}
+.container_6{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    font-family: 'Varela Round', sans-serif;
+}
+.img_2{
+    width: 220px;
+    height: 115px;
+    margin:0px 20px;
+}
+.container_7{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+}
+.container_8{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.container_9{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-start;
+}
+input{
+    height: 25px;
+    width: 190px;
+    border-radius: 30px;
+    padding: 15px;
+    background-color:#56c4c5;
+    color: whitesmoke;
+}
+.login{
+    background-color:whitesmoke;
+    color: blue;
+    font-family:'Varela Round',sans-serif;
+    box-shadow: 0 0 6px gray;
+    width: 210px;
+    border-radius: 50px;
+    height:50px;
+}
+input::placeholder{
+    color: whitesmoke;
+    font-family:'Varela Round',sans-serif;
+}
+.header{
+    color: #56c4c5;
+}
+.fp{
+    color: #56c4c5;
+    font-family: 'Varela Round', sans-serif;
+}
+.log_1{
+    text-decoration: underline;
+    text-decoration-thickness: 2px;
+}
